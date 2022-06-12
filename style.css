@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+
+    background-image: url('https://podrozebezosci.pl/wp-content/uploads/2017/07/Sopot-na-weekend-co-warto-zobaczy%C4%87-zwiedzi%C4%87-atrakcje-przewodnik-molo-w-Sopocie-morze-ba%C5%82tyckie-pla%C5%BCa-things-to-see-do-visit-Poland-1038x576.jpg');
+    background-position: 45% center;
+    background-size: cover;
+    height: 90vp;
+    margin-bottom: 10px;
+}
+
+header h1 {
+
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.24);
+    padding: 50px 0;
+    height: 90vh;
+    line-height: 90vh;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 1px 1px 1px white;
+}
+
+h3 {
+
+    padding: 20px;
+    text-align: center;
+}
+
+.apartament p {
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+
+}
+
+.img {
+    background-image: url('https://podrozebezosci.pl/wp-content/uploads/2017/07/Sopot-na-weekend-co-warto-zobaczy%C4%87-zwiedzi%C4%87-atrakcje-przewodnik-molo-w-Sopocie-morze-ba%C5%82tyckie-pla%C5%BCa-things-to-see-do-visit-Poland-1038x576.jpg');
+    background-position: 45% center;
+    background-size: cover;
+    height: 150px;
+}
+
+footer {
+    padding: 20px 30px;
+    background-color: bisque;
+    margin-top: 10px;
+
+}
+
+footer p {
+
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: 1,5px;
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    main {
+        display: flex;
+        flex-direction: row; /*domyślny układ poziomy*/
+        flex-wrap: wrap;
+    }
+
+    .apartament {
+        width: 50%;
+        padding: 20px;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .apartament {
+        width: calc(100% / 3);
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .apartament {
+        width: calc(100% / 4); }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    .apartament {
+        width: calc(100% / 4);}
+}
