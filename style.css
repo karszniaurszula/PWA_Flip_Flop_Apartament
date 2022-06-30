@@ -8,7 +8,7 @@
 
 header {
 
-    background-image: url('https://podrozebezosci.pl/wp-content/uploads/2017/07/Sopot-na-weekend-co-warto-zobaczy%C4%87-zwiedzi%C4%87-atrakcje-przewodnik-molo-w-Sopocie-morze-ba%C5%82tyckie-pla%C5%BCa-things-to-see-do-visit-Poland-1038x576.jpg');
+    background-image: url('https://c0.wallpaperflare.com/preview/777/949/73/sunset-bridge-sea-lithuania.jpg');
     background-position: 45% center;
     background-size: cover;
     height: 90vp;
@@ -40,8 +40,29 @@ h3 {
 
 }
 
-.img {
-    background-image: url('https://podrozebezosci.pl/wp-content/uploads/2017/07/Sopot-na-weekend-co-warto-zobaczy%C4%87-zwiedzi%C4%87-atrakcje-przewodnik-molo-w-Sopocie-morze-ba%C5%82tyckie-pla%C5%BCa-things-to-see-do-visit-Poland-1038x576.jpg');
+.img1 {
+    background-image: url('https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/279691967_131754439446925_4345294266934264752_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=AVe6Iub0OboAX_PZ2ih&_nc_ht=scontent-frt3-1.xx&oh=00_AT_OPziH7MW97pUAbKqm3mUVyAwTOtrug4JkX68eujZMwA&oe=62C3E290');
+    background-position: 45% center;
+    background-size: cover;
+    height: 150px;
+}
+
+.img2 {
+    background-image: url('https://scontent-frt3-2.xx.fbcdn.net/v/t39.30808-6/278707461_130800792875623_2922586200983907421_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=FjeN2I5dEIsAX8jZ2fe&_nc_ht=scontent-frt3-2.xx&oh=00_AT_Q1k82lgLcP5LzDnzZvx2u3GK1RFoNE5H4-xISkxsCpg&oe=62C3C393');
+    background-position: 45% center;
+    background-size: cover;
+    height: 150px;
+}
+
+.img3 {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/263/138/437/sopot-poland-polish-hd-wallpaper-preview.jpg');
+    background-position: 45% center;
+    background-size: cover;
+    height: 150px;
+}
+
+.img4 {
+    background-image: url('https://img.freepik.com/free-photo/website-internet-contact-us-page-concept-with-phone-email-mail-icons-hotline-support-contact-communication-concept-wide-panorama-view-sign-mail-mobile-phone-icons-copy-space_256259-1518.jpg?w=1800');
     background-position: 45% center;
     background-size: cover;
     height: 150px;
